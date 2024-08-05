@@ -1,6 +1,6 @@
 
 
-Tickyfy: Your Personal Atomic Habits Tracker
+Tickyfy: Your Personal Habits Tracker
 Introduction
 Welcome to Tickyfy, a habit tracker app inspired by the groundbreaking principles in James Clear's "Atomic Habits." Tickyfy is designed to help you build and maintain positive habits through customizable reminders, insightful notifications, and seamless synchronization. With the added feature of voice notes, Tickyfy is more than just a tracker – it's your companion in creating lasting change.
 
